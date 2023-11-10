@@ -1,0 +1,4 @@
+[submodule "webpack.js.org"]
+	path = webpack.js.org
+	url = https://github.com/docschina/webpack.js.org.git
+	branch = webpack-4
