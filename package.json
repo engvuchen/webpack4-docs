@@ -1,0 +1,23 @@
+{
+  "name": "webpack4-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "front-matter": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engvuchen/webpack4-docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engvuchen/webpack4-docs/issues"
+  },
+  "homepage": "https://github.com/engvuchen/webpack4-docs#readme"
+}
